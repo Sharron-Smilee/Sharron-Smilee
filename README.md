@@ -1,7 +1,7 @@
 # Hi there! This is Sharron Smilee 👋
 👀 I’m interested in Business Intelligence and Data Analysis
 
-🌱 I’m currently learning Data Analytical Tools | AI & ML
+🌱 I really enjoy exploring more about Data Analytical Tools | Generative AI | Machine Learning
 
 
 <!---
